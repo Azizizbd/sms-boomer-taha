@@ -37,7 +37,7 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 ## Run in Linux/Termux
 
 ```
-git clone https://github.com/esfelurm/iran-bomber
+git clone https://github.com/Azizizbd/sms-boomer-taha.git
 cd iran-bomber
 go run sms.go
 ```
